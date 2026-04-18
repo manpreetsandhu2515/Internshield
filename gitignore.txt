@@ -1,0 +1,8 @@
+.env
+.env.local
+node_modules/
+dist/
+netlify/functions/node_modules/
+.netlify/
+*.log
+netlify/service.json
